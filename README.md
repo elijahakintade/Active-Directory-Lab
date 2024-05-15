@@ -25,9 +25,9 @@ This lab aims to create an ADDC (Active Directory Domain Controller) automation 
 
 ### Tools Used
 
-- Splunk is an open-source security monitoring platform used for threat detection.
-- TheHive is an open-source incident response platform that helps security teams manage and investigate security incidents
-- Shuffle: A general purpose security automation platform
+- Splunk is used for Log Management, Analysis, Security Monitoring, Automation and Orchestration
+- Atomic Red Team is an open source library of tests used for Adversary Emulation, Testing and Validation and Continuous Improvement
+- Crowbar Brute Forcing Tool is used for Credential Testing and Integration with Automation
 
 ## Steps
 *Lab Diagram*
