@@ -21,6 +21,7 @@ By achieving these objectives, the SOC will benefit from enhanced operational ef
 
 ## Steps
 *Lab Diagram*
+
 ![AD-diagram](https://github.com/elijahakintade/Active-Directory-Lab/assets/68931398/41ad80f6-b3c6-43df-af90-69d325a500a8)
 
 
