@@ -28,6 +28,7 @@ This lab aims to create an ADDC (Active Directory Domain Controller) automation 
 - Splunk is used for Log Management, Analysis, Security Monitoring, Automation and Orchestration
 - Atomic Red Team is an open source library of tests used for Adversary Emulation, Testing and Validation and Continuous Improvement
 - Crowbar Brute Forcing Tool is used for Credential Testing and Integration with Automation
+
 I integrated the above tools into the ADDC automation lab to create a cohesive SOC automation framework and to enhance detection, analysis, and response capabilities.
 
 ## Steps
