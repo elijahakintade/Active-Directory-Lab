@@ -2,8 +2,7 @@
 
 ## Objective
 
-This lab is aim to develop an integrated Security Operations Center (SOC) automation framework leveraging Wazuh, Shuffle, and The Hive platforms, aimed at enhancing incident detection, response, and remediation capabilities while optimizing resource utilization and reducing response times.
-By achieving these objectives, the SOC will benefit from enhanced operational efficiency, reduced response times, and improved resilience against evolving cyber threats, ultimately bolstering the organization's overall security posture.
+This lab aims to create an ADDC (Active Directory Domain Controller) automation lab within a SOC (Security Operations Center) automation framework. It is designed to enhance the detection, analysis, and response capabilities of security teams. By leveraging tools such as Splunk, Atomic Red Team, and Crowbar for brute forcing, the lab can simulate realistic attack scenarios and automate responses, thereby improving overall security posture. This approach enhances detection capabilities, improves response times, and promotes continuous security improvement. Integrating these tools into a cohesive automation framework, the ADDC automation lab provides a robust platform for advancing the security operations of an organization.
 
 ### Skills Learned
 
