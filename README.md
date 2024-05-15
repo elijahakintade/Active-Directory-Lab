@@ -6,11 +6,22 @@ This lab aims to create an ADDC (Active Directory Domain Controller) automation 
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Log Management and Analysis: Proficient in using Splunk to collect, index, and analyze machine data from various sources, including Windows Event Logs, Active Directory logs, and network traffic.
+- Security Monitoring: Experienced in setting up Splunk dashboards, alerts, and reports to monitor for suspicious activities and potential security incidents.
+- Automation and Orchestration: Skilled in integrating Splunk with other security tools to automate responses to detected threats.
+- Adversary Emulation: Capable of using Atomic Red Team to simulate adversary tactics, techniques, and procedures (TTPs) based on the MITRE ATT&CK framework.
+- Testing and Validation: Competent in validating the effectiveness of security controls and detection capabilities against known attack methods using Atomic Red Team.
+- Continuous Improvement: Adept at identifying and addressing gaps in detection and response capabilities to continuously improve security measures.
+- Brute Forcing Techniques: Proficient in using Crowbar to perform brute force attacks against various services (RDP, SSH, VNC) to test system resilience.
+- Credential Testing: Experienced in testing the robustness of login credentials and identifying weak or compromised credentials with Crowbar.
+- Integration with Automation: Skilled in integrating Crowbar into automated testing workflows to regularly check for vulnerabilities.
+- Environment Setup: Capable of deploying an Active Directory Domain Controller and configuring a network of Windows clients and servers, as well as configuring Splunk to collect and analyze logs.
+- Simulating Attacks: Experienced in executing scripted attack simulations using Atomic Red Team to mimic real-world adversary behaviors and performing brute force attacks with Crowbar.
+- Monitoring and Response: Proficient in configuring Splunk to detect simulated attack activities, generate alerts, and automate response actions such as isolating compromised systems, resetting passwords, and notifying security personnel.
+- Review and Improvement: Skilled in analyzing the results of simulated attacks and automated responses, identifying detection gaps or weaknesses, and updating detection rules, response playbooks, and security controls.
+- Enhanced Detection Capabilities: Experienced in regularly testing to ensure the SOC can detect a wide range of attack techniques.
+- Improved Response Times: Proficient in automating incident response to reduce the time to respond to incidents and minimize potential damage.
+- Continuous Security Improvement: Competent in conducting ongoing testing and analysis to identify and remediate security gaps, leading to a more resilient security posture.
 
 ### Tools Used
 
